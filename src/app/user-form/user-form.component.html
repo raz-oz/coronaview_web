@@ -1,0 +1,117 @@
+<!-- https://getbootstrap.com/docs/4.0/components/forms/ -->
+<div class="container-fluid">
+  <div class="row">
+    <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+      <div class="sidebar-sticky">
+        <ul class="nav flex-column">
+          <li class="nav-item">
+            <a class="nav-link" href="\users">
+              <span data-feather="home"></span>
+              Users List <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="\adduser">
+              <span data-feather="file"></span>
+              Add New User
+            </a>
+          </li>
+          </ul>
+          <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+            <span>Manage Accesss</span>
+            <a class="d-flex align-items-center text-muted" href="#" aria-label="Add a new report">
+              <span data-feather="plus-circle"></span>
+            </a>
+          </h6>
+          <ul class="nav flex-column mb-2">
+            <li class="nav-item">
+              <a class="nav-link" href="/users">
+                <span data-feather="file-text"></span>
+                Users
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/roles">
+                <span data-feather="file-text"></span>
+                Roles
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/tenants">
+                <span data-feather="file-text"></span>
+                Tenants
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/sessions">
+                <span data-feather="file-text"></span>
+                Sessions
+              </a>
+            </li>      
+            <li class="nav-item">
+              <a class="nav-link" href="/events">
+                <span data-feather="file-text"></span>
+                User Events
+              </a>
+            </li>      
+            <li class="nav-item">
+              <a class="nav-link" href="/settings">
+                <span data-feather="file-text"></span>
+                Administration Settings
+              </a>
+            </li>             
+          </ul>           
+      </div>
+    </nav>
+  </div>
+  
+  <BR><BR>
+  
+  <form #heroForm="ngForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="firstName">First Name</label>
+      <input type="text" class="form-control" id="firstName" placeholder="First Name" [(ngModel)]="model.firstName" name="firstName">
+    </div>   
+    <div class="form-group">
+      <label for="lastName">Last Name</label>
+      <input type="text" class="form-control" id="lastName" placeholder="Last Name" [(ngModel)]="model.lastName" name="lastName">
+    </div>       
+    <div class="form-group">
+      <label for="userName">User Name</label>
+      <input type="text" class="form-control" id="userName" placeholder="User Name" required [(ngModel)]="model.userName" name="userName">
+    </div>      
+    <div *ngIf="(heroForm.controls['userName'].dirty || heroForm.controls['userName'].touched)" class="alert alert-danger">
+      <div *ngIf="heroForm.controls['userName'].errors.required">User Name is required</div>
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" class="form-control" id="password" placeholder="Password" required [(ngModel)]="model.password" name="password">
+    </div>
+    <div *ngIf="(heroForm.controls['password'].dirty || heroForm.controls['password'].touched)" class="alert alert-danger">
+      <div *ngIf="heroForm.controls['password'].errors.required">Password is required</div>
+    </div>    
+    <div class="form-group">
+      <label for="email">Email address</label>
+      <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email" [(ngModel)]="model.email" name="email">
+      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
+    <div class="form-group">
+      <label for="role">Role</label>
+      <select class="form-control" id="role" name="role" [(ngModel)]="model.roleID" required>
+        <option *ngFor="let role of roles" [value]="role.id">{{role.name}}</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="tenants">Tenants</label>
+      <select multiple class="form-control" name="tenants" [(ngModel)]="model.tenantsID" id="tenants" required>
+        <option *ngFor="let tenant of tenants" [value]="tenant.id">{{tenant.name}}</option>
+      </select>
+    </div>    
+    <button type="submit" [disabled]="heroForm.pristine || heroForm.invalid" class="btn btn-primary">{{buttonName}}</button>
+  </form>
+  {{subitMsg}}
+  <BR><BR>  
+
+  <!-- {{diagnostic}} -->
+
+</div>

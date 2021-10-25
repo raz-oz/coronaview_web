@@ -1,0 +1,859 @@
+{
+    "SQL Results": [
+        {
+            "date": "1/26/20",
+            "Overall tests": " 3 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "1/27/20",
+            "Overall tests": " 4 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "1/28/20",
+            "Overall tests": " 4 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "1/29/20",
+            "Overall tests": " 7 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "1/30/20",
+            "Overall tests": " 11 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "1/31/20",
+            "Overall tests": " 11 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/1/20",
+            "Overall tests": " 11 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/2/20",
+            "Overall tests": " 18 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/3/20",
+            "Overall tests": " 25 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/4/20",
+            "Overall tests": " 31 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/5/20",
+            "Overall tests": " 31 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/6/20",
+            "Overall tests": " 31 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/7/20",
+            "Overall tests": " 31 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/8/20",
+            "Overall tests": " 31 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/9/20",
+            "Overall tests": " 71 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/10/20",
+            "Overall tests": " 98 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/11/20",
+            "Overall tests": " 148 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/12/20",
+            "Overall tests": " 183 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/13/20",
+            "Overall tests": " 218 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/14/20",
+            "Overall tests": " 248 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/15/20",
+            "Overall tests": " 251 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/16/20",
+            "Overall tests": " 274 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/17/20",
+            "Overall tests": " 315 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/18/20",
+            "Overall tests": " 361 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/19/20",
+            "Overall tests": " 395 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/20/20",
+            "Overall tests": " 422 ",
+            "verified": " -   ",
+            "hospitalized": " -   ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/21/20",
+            "Overall tests": " 450 ",
+            "verified": " 1 ",
+            "hospitalized": " 2 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/22/20",
+            "Overall tests": " 472 ",
+            "verified": " 1 ",
+            "hospitalized": " 2 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/23/20",
+            "Overall tests": " 528 ",
+            "verified": " 1 ",
+            "hospitalized": " 2 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/24/20",
+            "Overall tests": " 606 ",
+            "verified": " 2 ",
+            "hospitalized": " 2 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/25/20",
+            "Overall tests": " 713 ",
+            "verified": " 2 ",
+            "hospitalized": " 2 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/26/20",
+            "Overall tests": " 821 ",
+            "verified": " 2 ",
+            "hospitalized": " 2 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/27/20",
+            "Overall tests": " 992 ",
+            "verified": " 3 ",
+            "hospitalized": " 3 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/28/20",
+            "Overall tests": " 1,110 ",
+            "verified": " 6 ",
+            "hospitalized": " 5 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "2/29/20",
+            "Overall tests": " 1,270 ",
+            "verified": " 6 ",
+            "hospitalized": " 5 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/1/20",
+            "Overall tests": " 1,460 ",
+            "verified": " 7 ",
+            "hospitalized": " 7 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/2/20",
+            "Overall tests": " 1,631 ",
+            "verified": " 12 ",
+            "hospitalized": " 11 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/3/20",
+            "Overall tests": " 1,865 ",
+            "verified": " 15 ",
+            "hospitalized": " 11 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/4/20",
+            "Overall tests": " 1,994 ",
+            "verified": " 15 ",
+            "hospitalized": " 11 ",
+            "critical": " -   ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/5/20",
+            "Overall tests": " 2,167 ",
+            "verified": " 17 ",
+            "hospitalized": " 13 ",
+            "critical": " 1 ",
+            "respiration": " -   ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/6/20",
+            "Overall tests": " 2,442 ",
+            "verified": " 30 ",
+            "hospitalized": " 16 ",
+            "critical": " 2 ",
+            "respiration": " 1 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/7/20",
+            "Overall tests": " 2,780 ",
+            "verified": " 34 ",
+            "hospitalized": " 19 ",
+            "critical": " 3 ",
+            "respiration": " 2 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/8/20",
+            "Overall tests": " 3,202 ",
+            "verified": " 43 ",
+            "hospitalized": " 26 ",
+            "critical": " 5 ",
+            "respiration": " 4 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/9/20",
+            "Overall tests": " 3,721 ",
+            "verified": " 47 ",
+            "hospitalized": " 40 ",
+            "critical": " 6 ",
+            "respiration": " 5 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/10/20",
+            "Overall tests": " 4,242 ",
+            "verified": " 80 ",
+            "hospitalized": " 59 ",
+            "critical": " 6 ",
+            "respiration": " 5 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/11/20",
+            "Overall tests": " 4,645 ",
+            "verified": " 99 ",
+            "hospitalized": " 81 ",
+            "critical": " 7 ",
+            "respiration": " 6 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/12/20",
+            "Overall tests": " 5,252 ",
+            "verified": " 120 ",
+            "hospitalized": " 103 ",
+            "critical": " 7 ",
+            "respiration": " 6 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/13/20",
+            "Overall tests": " 5,948 ",
+            "verified": " 155 ",
+            "hospitalized": " 123 ",
+            "critical": " 7 ",
+            "respiration": " 6 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/14/20",
+            "Overall tests": " 6,561 ",
+            "verified": " 186 ",
+            "hospitalized": " 161 ",
+            "critical": " 6 ",
+            "respiration": " 4 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/15/20",
+            "Overall tests": " 7,745 ",
+            "verified": " 224 ",
+            "hospitalized": " 201 ",
+            "critical": " 9 ",
+            "respiration": " 6 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/16/20",
+            "Overall tests": " 9,090 ",
+            "verified": " 297 ",
+            "hospitalized": " 221 ",
+            "critical": " 11 ",
+            "respiration": " 7 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/17/20",
+            "Overall tests": " 10,747 ",
+            "verified": " 392 ",
+            "hospitalized": " 257 ",
+            "critical": " 12 ",
+            "respiration": " 7 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/18/20",
+            "Overall tests": " 12,866 ",
+            "verified": " 511 ",
+            "hospitalized": " 306 ",
+            "critical": " 16 ",
+            "respiration": " 7 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/19/20",
+            "Overall tests": " 14,947 ",
+            "verified": " 648 ",
+            "hospitalized": " 295 ",
+            "critical": " 21 ",
+            "respiration": " 12 ",
+            "deaths": " -   "
+        },
+        {
+            "date": "3/20/20",
+            "Overall tests": " 17,272 ",
+            "verified": " 818 ",
+            "hospitalized": " 288 ",
+            "critical": " 23 ",
+            "respiration": " 12 ",
+            "deaths": " 1 "
+        },
+        {
+            "date": "3/21/20",
+            "Overall tests": " 19,369 ",
+            "verified": " 1,026 ",
+            "hospitalized": " 276 ",
+            "critical": " 27 ",
+            "respiration": " 15 ",
+            "deaths": " 1 "
+        },
+        {
+            "date": "3/22/20",
+            "Overall tests": " 22,705 ",
+            "verified": " 1,275 ",
+            "hospitalized": " 323 ",
+            "critical": " 37 ",
+            "respiration": " 22 ",
+            "deaths": " 1 "
+        },
+        {
+            "date": "3/23/20",
+            "Overall tests": " 26,335 ",
+            "verified": " 1,623 ",
+            "hospitalized": " 350 ",
+            "critical": " 42 ",
+            "respiration": " 24 ",
+            "deaths": " 1 "
+        },
+        {
+            "date": "3/24/20",
+            "Overall tests": " 31,118 ",
+            "verified": " 2,046 ",
+            "hospitalized": " 393 ",
+            "critical": " 45 ",
+            "respiration": " 26 ",
+            "deaths": " 4 "
+        },
+        {
+            "date": "3/25/20",
+            "Overall tests": " 37,044 ",
+            "verified": " 2,471 ",
+            "hospitalized": " 412 ",
+            "critical": " 48 ",
+            "respiration": " 27 ",
+            "deaths": " 5 "
+        },
+        {
+            "date": "3/26/20",
+            "Overall tests": " 43,555 ",
+            "verified": " 2,998 ",
+            "hospitalized": " 464 ",
+            "critical": " 54 ",
+            "respiration": " 31 ",
+            "deaths": " 10 "
+        },
+        {
+            "date": "3/27/20",
+            "Overall tests": " 49,299 ",
+            "verified": " 3,434 ",
+            "hospitalized": " 515 ",
+            "critical": " 65 ",
+            "respiration": " 36 ",
+            "deaths": " 12 "
+        },
+        {
+            "date": "3/28/20",
+            "Overall tests": " 55,010 ",
+            "verified": " 3,916 ",
+            "hospitalized": " 512 ",
+            "critical": " 69 ",
+            "respiration": " 39 ",
+            "deaths": " 12 "
+        },
+        {
+            "date": "3/29/20",
+            "Overall tests": " 62,574 ",
+            "verified": " 4,452 ",
+            "hospitalized": " 541 ",
+            "critical": " 77 ",
+            "respiration": " 50 ",
+            "deaths": " 15 "
+        },
+        {
+            "date": "3/30/20",
+            "Overall tests": " 69,665 ",
+            "verified": " 4,999 ",
+            "hospitalized": " 617 ",
+            "critical": " 86 ",
+            "respiration": " 55 ",
+            "deaths": " 16 "
+        },
+        {
+            "date": "3/31/20",
+            "Overall tests": " 77,625 ",
+            "verified": " 5,732 ",
+            "hospitalized": " 665 ",
+            "critical": " 97 ",
+            "respiration": " 64 ",
+            "deaths": " 20 "
+        },
+        {
+            "date": "4/1/20",
+            "Overall tests": " 86,606 ",
+            "verified": " 6,428 ",
+            "hospitalized": " 767 ",
+            "critical": " 110 ",
+            "respiration": " 72 ",
+            "deaths": " 28 "
+        },
+        {
+            "date": "4/2/20",
+            "Overall tests": " 96,823 ",
+            "verified": " 7,150 ",
+            "hospitalized": " 811 ",
+            "critical": " 112 ",
+            "respiration": " 79 ",
+            "deaths": " 38 "
+        },
+        {
+            "date": "4/3/20",
+            "Overall tests": " 107,148 ",
+            "verified": " 7,748 ",
+            "hospitalized": " 800 ",
+            "critical": " 128 ",
+            "respiration": " 92 ",
+            "deaths": " 43 "
+        },
+        {
+            "date": "4/4/20",
+            "Overall tests": " 113,664 ",
+            "verified": " 8,176 ",
+            "hospitalized": " 786 ",
+            "critical": " 138 ",
+            "respiration": " 107 ",
+            "deaths": " 49 "
+        },
+        {
+            "date": "4/5/20",
+            "Overall tests": " 123,107 ",
+            "verified": " 8,755 ",
+            "hospitalized": " 823 ",
+            "critical": " 134 ",
+            "respiration": " 106 ",
+            "deaths": " 55 "
+        },
+        {
+            "date": "4/6/20",
+            "Overall tests": " 130,603 ",
+            "verified": " 9,206 ",
+            "hospitalized": " 806 ",
+            "critical": " 146 ",
+            "respiration": " 110 ",
+            "deaths": " 62 "
+        },
+        {
+            "date": "4/7/20",
+            "Overall tests": " 137,531 ",
+            "verified": " 9,585 ",
+            "hospitalized": " 743 ",
+            "critical": " 158 ",
+            "respiration": " 106 ",
+            "deaths": " 69 "
+        },
+        {
+            "date": "4/8/20",
+            "Overall tests": " 143,401 ",
+            "verified": " 9,925 ",
+            "hospitalized": " 690 ",
+            "critical": " 164 ",
+            "respiration": " 114 ",
+            "deaths": " 78 "
+        },
+        {
+            "date": "4/9/20",
+            "Overall tests": " 149,149 ",
+            "verified": " 10,269 ",
+            "hospitalized": " 663 ",
+            "critical": " 165 ",
+            "respiration": " 117 ",
+            "deaths": " 87 "
+        },
+        {
+            "date": "4/10/20",
+            "Overall tests": " 156,476 ",
+            "verified": " 10,629 ",
+            "hospitalized": " 666 ",
+            "critical": " 169 ",
+            "respiration": " 128 ",
+            "deaths": " 95 "
+        },
+        {
+            "date": "4/11/20",
+            "Overall tests": " 163,167 ",
+            "verified": " 10,974 ",
+            "hospitalized": " 623 ",
+            "critical": " 182 ",
+            "respiration": " 130 ",
+            "deaths": " 101 "
+        },
+        {
+            "date": "4/12/20",
+            "Overall tests": " 173,789 ",
+            "verified": " 11,534 ",
+            "hospitalized": " 664 ",
+            "critical": " 176 ",
+            "respiration": " 130 ",
+            "deaths": " 108 "
+        },
+        {
+            "date": "4/13/20",
+            "Overall tests": " 184,748 ",
+            "verified": " 11,978 ",
+            "hospitalized": " 684 ",
+            "critical": " 192 ",
+            "respiration": " 137 ",
+            "deaths": " 116 "
+        },
+        {
+            "date": "4/14/20",
+            "Overall tests": " 197,411 ",
+            "verified": " 12,383 ",
+            "hospitalized": " 672 ",
+            "critical": " 178 ",
+            "respiration": " 135 ",
+            "deaths": " 124 "
+        },
+        {
+            "date": "4/15/20",
+            "Overall tests": " 206,861 ",
+            "verified": " 12,694 ",
+            "hospitalized": " 670 ",
+            "critical": " 179 ",
+            "respiration": " 132 ",
+            "deaths": " 137 "
+        },
+        {
+            "date": "4/16/20",
+            "Overall tests": " 219,645 ",
+            "verified": " 12,995 ",
+            "hospitalized": " 703 ",
+            "critical": " 182 ",
+            "respiration": " 136 ",
+            "deaths": " 144 "
+        },
+        {
+            "date": "4/17/20",
+            "Overall tests": " 231,206 ",
+            "verified": " 13,295 ",
+            "hospitalized": " 662 ",
+            "critical": " 165 ",
+            "respiration": " 125 ",
+            "deaths": " 153 "
+        },
+        {
+            "date": "4/18/20",
+            "Overall tests": " 241,836 ",
+            "verified": " 13,605 ",
+            "hospitalized": " 642 ",
+            "critical": " 173 ",
+            "respiration": " 117 ",
+            "deaths": " 164 "
+        },
+        {
+            "date": "4/19/20",
+            "Overall tests": " 253,299 ",
+            "verified": " 13,896 ",
+            "hospitalized": " 619 ",
+            "critical": " 156 ",
+            "respiration": " 117 ",
+            "deaths": " 172 "
+        },
+        {
+            "date": "4/20/20",
+            "Overall tests": " 268,646 ",
+            "verified": " 14,199 ",
+            "hospitalized": " 614 ",
+            "critical": " 153 ",
+            "respiration": " 122 ",
+            "deaths": " 178 "
+        },
+        {
+            "date": "4/21/20",
+            "Overall tests": " 282,231 ",
+            "verified": " 14,491 ",
+            "hospitalized": " 543 ",
+            "critical": " 143 ",
+            "respiration": " 117 ",
+            "deaths": " 187 "
+        },
+        {
+            "date": "4/22/20",
+            "Overall tests": " 295,525 ",
+            "verified": " 14,720 ",
+            "hospitalized": " 532 ",
+            "critical": " 147 ",
+            "respiration": " 108 ",
+            "deaths": " 190 "
+        },
+        {
+            "date": "4/23/20",
+            "Overall tests": " 309,683 ",
+            "verified": " 15,000 ",
+            "hospitalized": " 491 ",
+            "critical": " 143 ",
+            "respiration": " 112 ",
+            "deaths": " 194 "
+        },
+        {
+            "date": "4/24/20",
+            "Overall tests": " 322,296 ",
+            "verified": " 15,255 ",
+            "hospitalized": " 454 ",
+            "critical": " 140 ",
+            "respiration": " 104 ",
+            "deaths": " 197 "
+        },
+        {
+            "date": "4/25/20",
+            "Overall tests": " 331,374 ",
+            "verified": " 15,415 ",
+            "hospitalized": " 432 ",
+            "critical": " 133 ",
+            "respiration": " 104 ",
+            "deaths": " 200 "
+        },
+        {
+            "date": "4/26/20",
+            "Overall tests": " 339,841 ",
+            "verified": " 15,503 ",
+            "hospitalized": " 441 ",
+            "critical": " 139 ",
+            "respiration": " 109 ",
+            "deaths": " 202 "
+        },
+        {
+            "date": "4/27/20",
+            "Overall tests": " 350,860 ",
+            "verified": " 15,618 ",
+            "hospitalized": " 410 ",
+            "critical": " 130 ",
+            "respiration": " 99 ",
+            "deaths": " 206 "
+        },
+        {
+            "date": "4/28/20",
+            "Overall tests": " 361,501 ",
+            "verified": " 15,786 ",
+            "hospitalized": " 391 ",
+            "critical": " 125 ",
+            "respiration": " 98 ",
+            "deaths": " 211 "
+        },
+        {
+            "date": "4/29/20",
+            "Overall tests": " 370,505 ",
+            "verified": " 15,869 ",
+            "hospitalized": " 370 ",
+            "critical": " 118 ",
+            "respiration": " 93 ",
+            "deaths": " 217 "
+        }
+    ]
+}
